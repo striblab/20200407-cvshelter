@@ -63,9 +63,9 @@ content," <div class=""strib-styles ssa ssb ssc"">
       <h2 class=""chartTitle"">Sheltering efforts vary by location</h2>
 
     <section class=""body"">
-      <p>Unacast cell tracking analysis suggests some Minnesotans could be better about quarantining, as the state's grade slides from an A- just after the shelter-in-place order to a C by April.</p>
+      <p>Unacast cellphone tracking suggests some Minnesotans could be better about quarantining, as the state's assigned social distancing grade slides from an A- just after the shelter-in-place order to a C by April.</p>
         
-      <p>Hennepin and Ramsey counties received the best grades in the metro area, while Anoka scored the poorest for social distancing.</p>
+      <p>Hennepin and Ramsey counties received the best grades in the metro area, while Anoka scored the poorest for staying home.</p>
 
       <p>Some of the harsher scores assigned to greater Minnesota might be skewed by those residents typically traveling further for essential trips to stores or work. Analyses from both Google and Descartes Labs, for instance, shows significant decreases in mobility among Minnesotans in rural counties.</p>
     </section>
@@ -73,7 +73,7 @@ content," <div class=""strib-styles ssa ssb ssc"">
     <div class=""slide"">
       <div class=""chatter"">
         <div class=""legend space"">Unacast social distancing grade, April 2, 2020</div>
-        <div class=""legend""><span class=""legendary"" style=""background-color:#3c8259;"">A</span> <span class=""legendary"" style=""background-color:#8cbf82;"">B</span> <span class=""legendary"" style=""background-color:#F7F7F7;color:#000000;"">C</span> <span class=""legendary"" style=""background-color:#7D739C;"">D</span> <span class=""legendary"" style=""background-color:#4A4061;"">F</span></div>
+        <div class=""legend""><span class=""legendary"" style=""background-color:#3c8259;"">A</span> <span class=""legendary"" style=""background-color:#8cbf82;"">B</span> <span class=""legendary"" style=""background-color:#D9D3EB;color:#000000;"">C</span> <span class=""legendary"" style=""background-color:#7D739C;"">D</span> <span class=""legendary"" style=""background-color:#4A4061;"">F</span></div>
       </div>
       <div id=""mapCounties"" class=""map""><svg width=""320"" height=""350"" viewbox=""0 0 500 550"" preserveaspectratio=""xMidYMid""></svg></div>
       <div class=""byline"">Chart: Jeff Hargarten, Star Tribune • Source: <a href=""https://public.tableau.com/profile/susanne.hagen#!/vizhome/SocialDistancingScoreboard/SocialDistancingScoreboard"">Unacast</a></div>
@@ -101,5 +101,6 @@ content," <div class=""strib-styles ssa ssb ssc"">
     </section> -->"
 scripts,news/projects/all/20200407-cvshelter/js/index.bundle.js
 styles,news/projects/all/20200407-cvshelter/styles/index.bundle.css
-script libraries,"<script src=""https://cdn.polyfill.io/v2/polyfill.min.js""></script>"
+script libraries,"<script src=""https://cdn.polyfill.io/v2/polyfill.min.js""></script>
+<script src=""https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js""></script>"
 style libraries,

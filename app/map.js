@@ -73,7 +73,7 @@ class Map {
         .attr("class", function(d) { return "county C" + d.properties.COUNTYFIPS; })
         .attr("id", function(d) { return "P" + d.properties.COUNTYFIPS; } )
         .style("stroke-width", '1')
-        .style("stroke","#000000")
+        .style("stroke","#ffffff")
         .style("fill",function(d) {
           var color;
           for (var i=0; i < data.length; i++) {

@@ -23,7 +23,8 @@
   },
   "js": {
     "globals": [
-      "https://cdn.polyfill.io/v2/polyfill.min.js"
+      "https://cdn.polyfill.io/v2/polyfill.min.js",
+      "https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"
     ]
   },
   "publishToken": "6cf7f60fc78837f1fd19801aff7d6799",
