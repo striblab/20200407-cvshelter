@@ -1,0 +1,111 @@
+label,content
+content," <div class=""strib-styles ssa ssb ssc"">
+  <section class=""container-lg elex-header"">
+    <h5 class=""font-popular-light topper""><span class=""font-popular-medium""><a href=""https://www.startribune.com/local/coronavirus/"">Coronavirus</a></span></h5>
+    <h1>Three charts showing how Minnesotans are socially distancing</h1>
+    <div class=""byline"">
+      <address>By
+        <a rel=""author"" href=""http://www.startribune.com/jeff-hargarten/274254381/"">Jeff Hargarten</a>
+      </address>
+      <span class=""spacer""></span>
+      Star Tribune
+      <span class=""spacer-alt""></span>
+      <time pubdate datetime=""2020-02-04:00:00"">Updated April 7, 2020</time>
+    </div>
+    <p></p>
+    <!-- share -->
+  </section>
+  
+  <div class=""container-lg elex-main"">
+
+    <section class=""leadin"">
+      <p>Minnesota life has largely ground to a halt since Gov. Tim Walz announced a shelter-in-place order in late March, the strongest tactic so far combating <a href=""https://www.startribune.com/coronavirus-covid-19-minnesota-tracker-map-county-data/568712601/"">mounting death tolls</a> from COVID-19 infections across the state.</p>
+      
+      <p>Signs suggest these measures are <a href=""https://www.startribune.com/keep-it-up-minnesota-covid-19-response-shows-promise/569384442/"">apparently working to slow the coronavirus pandemic</a> in Minnesota, and various data points show Minnesotans take this order seriously enough to curb their normal habits in dramatic ways.</p>
+      
+      <p>With federal social distancing guidelines in place until at least May and many summer events being canceled entirely, here’s a deeper look at some ways Minnesotans have quarantined themselves against COVID-19:</p>
+      
+    </section>
+
+
+    <div class=""rule""></div>
+    <section class=""body"">
+      <h2 class=""chartTitle"">Minnesota roads and skies are less crowded</h2>
+
+      <p>Whether by train, plane or automobile, fewer Minnesotans are traveling from one point to another.</p>
+
+      <p>Daily tracking from the Minnesota Department of Transportation shows traffic volume has declined by half on state roads. Metro Transit, meanwhile, has seen a similar decline in ridership on local bus and light rail lines as it encourages Minnesotans to only use public transit for necessities. Air travelers processed by the TSA at MSP airport as also dwindled over the past month.</p>
+    </section>
+
+    <div class=""slide space"">
+      <iframe title=""Public transit use has declined"" aria-label=""Interactive line chart"" id=""datawrapper-chart-hKLU9"" src=""//datawrapper.dwcdn.net/hKLU9/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100% !important; border: none;"" height=""400""></iframe>
+    </div>
+
+    <section class=""body"">
+        <p>Even before the shelter-in-place order took effect on March 28, Minnesotans were commuting far less than usual as employees shifted to working from home, public events canceled and businesses reduced service or shuttered entirely in response to coronavirus spreading throughout the community.</p>
+    </section>
+
+
+    <div class=""rule""></div>
+    <section class=""body"">
+      <h2 class=""chartTitle"">Phone tracking shows Minnesotans are homebound</h2>
+
+      <p>Some organizations have started using cellphone tracking data to measure how people are social distancing, including <a href=""https://www.cuebiq.com/visitation-insights-covid19/"" target=""new"">Cuebiq</a>, <a href=""https://www.unacast.com/covid19/social-distancing-scoreboard"" target=""new"">Unacast</a> and <a href=""https://www.gstatic.com/covid19/mobility/2020-03-29_US_Minnesota_Mobility_Report_en.pdf"" target=""new_"">Google</a>.</p>
+
+      <p>All reveal Minnesotans are venturing outside their homes up to roughly 60 percent less than average.</p>
+
+      <p>The downward trend has been inconsistent though. Unacast gives each state a social distancing grade, and when Minnesota’s shelter-in-place began in late March, the state’s overall social distancing grade slid from an A- to a C- by April.
+    </p>
+
+    </section>
+
+    <div class=""slide"">
+        <!-- <iframe title=""Minnesotans have become dramatically less mobile"" aria-label=""Interactive line chart"" id=""datawrapper-chart-yOD6g"" src=""//datawrapper.dwcdn.net/yOD6g/6/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100undefined !important; border: none;"" height=""400""></iframe> -->
+        <iframe title=""Minnesotans have changed their habits"" aria-label=""Bar Chart"" id=""datawrapper-chart-5OAAS"" src=""//datawrapper.dwcdn.net/5OAAS/1/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100% !important; border: none;"" height=""353""></iframe>
+    </div>
+
+    <div class=""rule""></div>
+    <section class=""body"">
+      <h2 class=""chartTitle"">Sheltering efforts vary by location</h2>
+
+    <section class=""body"">
+      <p>Unacast cell tracking analysis suggests some Minnesota counties are better at social distancing than others, with many rural areas receiving harsher grades than the Twin Cities metro area.</p>
+
+      <p>Some of those scores might be skewed by residents of greater Minnesota typically traveling further for essential trips to stores or work. Analyses from both Google and Descartes Labs, for instance, shows significant decreases in mobility among Minnesotans in rural counties.</p>
+
+      <p>Even then, Hennepin and Ramsey received the best grades, while suburban counties like Scott, Washington, Dakota, Anoka and Carver scored much lower among the seven-county metro.</p>
+    </section>
+
+    <div class=""slide"">
+      <div class=""chatter"">
+        <div class=""legend space"">Unacast social distancing grade, April 1, 2020</div>
+        <div class=""legend""><span class=""legendary"" style=""background-color:#3c8259;"">A</span> <span class=""legendary"" style=""background-color:#8cbf82;"">B</span> <span class=""legendary"" style=""background-color:#F7F7F7;color:#000000;"">C</span> <span class=""legendary"" style=""background-color:#7D739C;"">D</span> <span class=""legendary"" style=""background-color:#4A4061;"">F</span></div>
+      </div>
+      <div id=""mapCounties"" class=""map""><svg width=""320"" height=""350"" viewbox=""0 0 500 550"" preserveaspectratio=""xMidYMid""></svg></div>
+      <div class=""byline"">Chart: Jeff Hargarten, Star Tribune • Source: <a href=""https://public.tableau.com/profile/susanne.hagen#!/vizhome/SocialDistancingScoreboard/SocialDistancingScoreboard"">Unacast</a></div>
+    </div>
+
+    
+    <section class=""container-lg"">
+        <div class=""article-author-contact"">
+          <div class=""article-author-hcard"">
+              <p></p><p><span style=""font-size: 10pt; font-family: Arial;""><strong>Jeff Hargarten </strong>is a data journalist for the Star Tribune focusing on data-driven reporting and visualization. He has covered elections, technology, criminal justice, demographics and public health.</span></p><p></p>
+              <p><a class=""article-author-hcard__email"" target=""_blank"" href=""mailto:Jeff.Hargarten@startribune.com?subject=Thousands of people have voted early in Minnesota's presidential primary. Here's what to watch."" data-linkname=""Jeff.Hargarten@startribune.com"" data-linktype=""email"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">Jeff.Hargarten@startribune.com</a>
+              <a class=""article-author-hcard__phone"" href=""tel:612-673-4642"" data-linkname=""612-673-4642"" data-linktype=""phone"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">612-673-4642</a>
+              <a class=""article-author-hcard__twitter"" href=""http://twitter.com/JeffHargarten"" target=""_blank"" data-linkname=""JeffHargarten"" data-linktype=""twitter"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">JeffHargarten</a></p>
+        </div>
+      </div>
+    </section>
+  </section></div>
+</div>
+
+
+
+
+<!--     <section class=""body"">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas sed tempus urna et pharetra pharetra massa. Purus semper eget duis at tellus at. Cursus in hac habitasse platea dictumst quisque sagittis purus sit. Erat imperdiet sed euismod nisi porta. Sagittis eu volutpat odio facilisis mauris. Ac turpis egestas integer eget aliquet nibh praesent tristique magna. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Non nisi est sit amet facilisis magna etiam tempor orci. Nisl rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Nec feugiat nisl pretium fusce id. Lectus mauris ultrices eros in cursus turpis.</p>
+    </section> -->"
+scripts,news/projects/all/20200407-cvshelter/js/index.bundle.js
+styles,news/projects/all/20200407-cvshelter/styles/index.bundle.css
+script libraries,"<script src=""https://cdn.polyfill.io/v2/polyfill.min.js""></script>"
+style libraries,
