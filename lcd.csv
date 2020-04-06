@@ -2,7 +2,7 @@ label,content
 content," <div class=""strib-styles ssa ssb ssc"">
   <section class=""container-lg elex-header"">
     <h5 class=""font-popular-light topper""><span class=""font-popular-medium""><a href=""https://www.startribune.com/local/coronavirus/"">Coronavirus</a></span></h5>
-    <h1>Three charts showing how Minnesotans are socially distancing</h1>
+    <h1>Three charts tracking how Minnesotans are socially distancing</h1>
     <div class=""byline"">
       <address>By
         <a rel=""author"" href=""http://www.startribune.com/jeff-hargarten/274254381/"">Jeff Hargarten</a>
@@ -30,33 +30,27 @@ content," <div class=""strib-styles ssa ssb ssc"">
 
     <div class=""rule""></div>
     <section class=""body"">
-      <h2 class=""chartTitle"">Minnesota roads and skies are less crowded</h2>
+      <h2 class=""chartTitle"">Minnesota roads are less crowded</h2>
 
-      <p>Whether by train, plane or automobile, fewer Minnesotans are traveling from one point to another.</p>
+      <p>Fewer have been traveling from one point to another on Minnesota roads, according to Minnesota Department of Transportation data.</p>
 
-      <p>Daily tracking from the Minnesota Department of Transportation shows traffic volume has declined by half on state roads. Metro Transit, meanwhile, has seen a similar decline in ridership on local bus and light rail lines as it encourages Minnesotans to only use public transit for necessities. Air travelers processed by the TSA at MSP airport as also dwindled over the past month.</p>
+      <p>Comparing daily traffic volume this year to corresponding days in 2019 shows Minnesota's roads are half as busy during the quarantine.</p>
+
+      <p>Even before the shelter-in-place order took effect on March 28, Minnesotans were commuting far less than usual as employees shifted to working from home, public events canceled and businesses reduced service or shuttered entirely in response to coronavirus spreading throughout the community.</p>
     </section>
 
     <div class=""slide space"">
       <iframe title=""Public transit use has declined"" aria-label=""Interactive line chart"" id=""datawrapper-chart-hKLU9"" src=""//datawrapper.dwcdn.net/hKLU9/"" scrolling=""no"" frameborder=""0"" style=""width: 0; min-width: 100% !important; border: none;"" height=""400""></iframe>
     </div>
 
-    <section class=""body"">
-        <p>Even before the shelter-in-place order took effect on March 28, Minnesotans were commuting far less than usual as employees shifted to working from home, public events canceled and businesses reduced service or shuttered entirely in response to coronavirus spreading throughout the community.</p>
-    </section>
-
 
     <div class=""rule""></div>
     <section class=""body"">
       <h2 class=""chartTitle"">Phone tracking shows Minnesotans are homebound</h2>
 
-      <p>Some organizations have started using cellphone tracking data to measure how people are social distancing, including <a href=""https://www.cuebiq.com/visitation-insights-covid19/"" target=""new"">Cuebiq</a>, <a href=""https://www.unacast.com/covid19/social-distancing-scoreboard"" target=""new"">Unacast</a> and <a href=""https://www.gstatic.com/covid19/mobility/2020-03-29_US_Minnesota_Mobility_Report_en.pdf"" target=""new_"">Google</a>.</p>
+      <p>Some organizations have started using cellphone tracking data to measure how people are social distancing, including <a href=""https://www.cuebiq.com/visitation-insights-covid19/"" target=""new"">Cuebiq</a>, <a href=""https://www.unacast.com/covid19/social-distancing-scoreboard"" target=""new"">Unacast</a> and <a href=""https://www.google.com/covid19/mobility/"" target=""new_"">Google</a>.</p>
 
-      <p>All reveal Minnesotans are venturing outside their homes up to roughly 60 percent less than average.</p>
-
-      <p>The downward trend has been inconsistent though. Unacast gives each state a social distancing grade, and when Minnesota’s shelter-in-place began in late March, the state’s overall social distancing grade slid from an A- to a C- by April.
-    </p>
-
+      <p>All reveal Minnesotans are venturing outside their homes significantly less than average, and Google's metrics show the impact of transit schedule limitations, closed retail stores and changes to work routines.</p> 
     </section>
 
     <div class=""slide"">
@@ -69,16 +63,16 @@ content," <div class=""strib-styles ssa ssb ssc"">
       <h2 class=""chartTitle"">Sheltering efforts vary by location</h2>
 
     <section class=""body"">
-      <p>Unacast cell tracking analysis suggests some Minnesota counties are better at social distancing than others, with many rural areas receiving harsher grades than the Twin Cities metro area.</p>
+      <p>Unacast cell tracking analysis suggests some Minnesotans could be better about quarantining, as the state's grade slides from an A- just after the shelter-in-place order to a C by April.</p>
+        
+      <p>Hennepin and Ramsey counties received the best grades in the metro area, while Anoka scored the poorest for social distancing.</p>
 
-      <p>Some of those scores might be skewed by residents of greater Minnesota typically traveling further for essential trips to stores or work. Analyses from both Google and Descartes Labs, for instance, shows significant decreases in mobility among Minnesotans in rural counties.</p>
-
-      <p>Even then, Hennepin and Ramsey received the best grades, while suburban counties like Scott, Washington, Dakota, Anoka and Carver scored much lower among the seven-county metro.</p>
+      <p>Some of the harsher scores assigned to greater Minnesota might be skewed by those residents typically traveling further for essential trips to stores or work. Analyses from both Google and Descartes Labs, for instance, shows significant decreases in mobility among Minnesotans in rural counties.</p>
     </section>
 
     <div class=""slide"">
       <div class=""chatter"">
-        <div class=""legend space"">Unacast social distancing grade, April 1, 2020</div>
+        <div class=""legend space"">Unacast social distancing grade, April 2, 2020</div>
         <div class=""legend""><span class=""legendary"" style=""background-color:#3c8259;"">A</span> <span class=""legendary"" style=""background-color:#8cbf82;"">B</span> <span class=""legendary"" style=""background-color:#F7F7F7;color:#000000;"">C</span> <span class=""legendary"" style=""background-color:#7D739C;"">D</span> <span class=""legendary"" style=""background-color:#4A4061;"">F</span></div>
       </div>
       <div id=""mapCounties"" class=""map""><svg width=""320"" height=""350"" viewbox=""0 0 500 550"" preserveaspectratio=""xMidYMid""></svg></div>
@@ -90,7 +84,7 @@ content," <div class=""strib-styles ssa ssb ssc"">
         <div class=""article-author-contact"">
           <div class=""article-author-hcard"">
               <p></p><p><span style=""font-size: 10pt; font-family: Arial;""><strong>Jeff Hargarten </strong>is a data journalist for the Star Tribune focusing on data-driven reporting and visualization. He has covered elections, technology, criminal justice, demographics and public health.</span></p><p></p>
-              <p><a class=""article-author-hcard__email"" target=""_blank"" href=""mailto:Jeff.Hargarten@startribune.com?subject=Thousands of people have voted early in Minnesota's presidential primary. Here's what to watch."" data-linkname=""Jeff.Hargarten@startribune.com"" data-linktype=""email"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">Jeff.Hargarten@startribune.com</a>
+              <p><a class=""article-author-hcard__email"" target=""_blank"" href=""mailto:Jeff.Hargarten@startribune.com?subject=Three charts showing how Minnesotans are socially distancing"" data-linkname=""Jeff.Hargarten@startribune.com"" data-linktype=""email"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">Jeff.Hargarten@startribune.com</a>
               <a class=""article-author-hcard__phone"" href=""tel:612-673-4642"" data-linkname=""612-673-4642"" data-linktype=""phone"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">612-673-4642</a>
               <a class=""article-author-hcard__twitter"" href=""http://twitter.com/JeffHargarten"" target=""_blank"" data-linkname=""JeffHargarten"" data-linktype=""twitter"" data-modulename=""Article"" data-moduletype=""zone1-content"" data-position=""0-1-author"">JeffHargarten</a></p>
         </div>

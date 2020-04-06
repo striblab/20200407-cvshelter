@@ -1,5 +1,74 @@
 /** * Project specific styling. */
 
+
+.slide {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  width:520px !important;
+
+  .bottom {
+    margin-bottom:0px;
+  }
+}
+
+.legend {
+  text-align:center;
+}
+
+.space {
+  margin-bottom:15px;
+}
+
+.topper a {
+  color:#333333 !important;
+  text-decoration:none !important;
+}
+
+.adjacent {
+  display:inline-block;
+  width:45%;
+  margin-right:15px;
+  height:250px;
+}
+
+.datalabel {
+  margin-bottom:10px;
+}
+
+.elexLogo img {
+  width: 50px;
+}
+
+.elexLogo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 35px;
+}
+
+.d3-tooltip, #d3-tooltip-0, .thisTip, .tooltip {
+  display:none;
+  font-family: "Benton Sans", Helvetica, Arial, sans-serif;
+  background-color: #ffffff !important;
+  height: auto !important;
+  width: auto !important;
+  padding: 10px !important;
+  opacity:1 !important;
+  border-radius: 0 !important;
+  border: 1px solid #000000 !important;
+  font-size: 13px !important;
+}
+
+#d3-tooltip-0 .legendary {
+  padding:4px;
+  font-weight:bold;
+  border-radius: 5px;
+  padding: 0 7px;
+  margin-bottom: 3px;
+}
+
 p {
   -webkit-font-smoothing: antialiased;
 }
